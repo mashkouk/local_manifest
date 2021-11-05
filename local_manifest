@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+ <!-- Trees -->
+ <project path="device/xiaomi/surya" name="Havoc-Devices/android_device_xiaomi_surya.git" remote="github" revision="eleven" />
+ <project path="vendor/xiaomi/surya" name="Havoc-Devices/android_vendor_xiaomi_surya.git" remote="github" revision="eleven" />
+ <project path="kernel/xiaomi/surya" name="Havoc-Devices/android_kernel_xiaomi_surya.git" remote="github" revision="eleven" />
+ 
+ </manifest>
